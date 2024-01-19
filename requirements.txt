@@ -1,3 +1,4 @@
 tensorflow
-seaborn
 pandas
+matplotlib
+numpy
