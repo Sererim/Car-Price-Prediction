@@ -3,9 +3,8 @@
 Model works fine with accurate predictions.
 Bar graph of actual prices to predicted.
 
-Model summary:
-
-### *Model: "sequential"*
+### Model summary:
+#### *Model: "sequential"*
 
 | Layer (type)   | Output Shape  |      Param #     |
 |---             |    ---        |        ---       |
